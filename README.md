@@ -1,2 +1,3 @@
 # Hangman
-Developed in C++
+This is simple Hangman program developed in C++11
+
